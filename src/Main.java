@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Esta es la segunda linea");
         System.out.println("Nueva linea 3");
         System.out.println("Esto es una nueva linea que estoy creando desde la rama 2");
+        System.out.println("Este es un cambio que hago desde la rama main después de haber hecho una rama2 es decir, el main va a cambiar y voy a fusionarlas las dos, por lo que no será posible un merge por fast-fordward");
     }
 }
