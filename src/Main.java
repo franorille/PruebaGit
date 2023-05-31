@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Esto es la primera linea, voy a modificar también esta primera línea. Acabo de hacer lo mismo en la rama 2 para forzar un conflicto");
+
+        System.out.println("Esto es la primera linea, voy a incluir un conflicto desde la rama 2 modificando esta linea y mergeandola con la main");
         System.out.println("Esta es la segunda linea");
         System.out.println("Nueva linea 3");
         System.out.println("Esto es una nueva linea que estoy creando desde la rama 2");
