@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Esta es una linea adicional en la rama 2 después de haber hecho un merge de la rama 2 y el main. Es decir, esto todavía no esta en la rama main");
         System.out.println("Esto es una modificación que hago desde la propia web de GitHub en la rama main");
         System.out.println("hago un nuevo commit para ver si funciona porque he tocado el fichero config");
+        System.out.println("Una prueba más porque he vuelto a tocar el archivo de configuración intentando subir otro repositorio");
     }
 }
